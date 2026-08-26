@@ -275,5 +275,14 @@
       "You need to merge 'feature-search' first!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787757327.835974,
+    "completed_at": 1787757330.907859,
+    "comments": [
+      "You need to merge 'feature-search' first!"
+    ],
+    "status": "Incomplete"
   }
 ]
