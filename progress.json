@@ -302,5 +302,15 @@
       "You have successfully completed the exercise!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787762181.850954,
+    "completed_at": 1787762188.526628,
+    "comments": [
+      "Local branch 'STU' was not renamed to 'S-to-Z'!",
+      "If needed, reset the repository using \"gitmastery progress reset\" and start again."
+    ],
+    "status": "Incomplete"
   }
 ]
