@@ -329,5 +329,15 @@
       "Great work! All required branches are present and correctly set up."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787836614.587987,
+    "completed_at": 1787836617.552568,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository.",
+      "Branch 'VWX' still exists on the remote! Remember to delete it from the remote."
+    ],
+    "status": "Incomplete"
   }
 ]
